@@ -1,0 +1,7 @@
+welcome to hack sim
+--------------------------------
+<<<<commands>>>>
+- 1  ------ select discord
+- 2 -------select PlayStore
+- 3 ------ repair download
+--------------------------------
